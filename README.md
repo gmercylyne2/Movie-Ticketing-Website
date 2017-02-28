@@ -2,27 +2,28 @@
 
 [Project site](https://example.com)
 
-Authors: [Your Name](https://your-website-or-email.com) + other authors
+Authors: [Philip Mutua](pmutua@live.com) + isaiah Muli 
 
 ## Description
 
-This is a project to cure cancer...probably.
+A page utilizing javascript objects and prototypes that displays a user's movie ticket price depending on movie,time and age selected.
 
-It can do:
-1. blah
-2. blah blah
+## Support and contact details
+For all issues and support contact Isaiah at <dicksonm6@gmail.com>
 
 ### Technologies Used
 * HTML
 * CSS
 * JavaScript
+* Jquery 
+* Bootstrap
 
 ## Setup
 
 Make sure you have git installed. On the terminal, navigate to your workspace directory and run
 
 ```bash
-$ git clone https://github.com/brianmarete/hello-world.git
+$ git clone https://github.com/pmutua/Movie-Ticketing-Website.git
 ```
 ## Contributing
 
