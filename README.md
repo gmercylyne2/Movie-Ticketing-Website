@@ -1,6 +1,6 @@
 # Movie Ticket Booking website
 
-[Project site](https://example.com)
+[Click here to view deployed site ](https://example.com)
 
 Authors: [Philip Mutua](pmutua@live.com) + isaiah Muli 
 
